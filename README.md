@@ -5,8 +5,8 @@ This project is a clone of the main Hamachi page, where **HTML**, **CSS** and **
 
 ### :pushpin: Links<br/>
 ***
-:link: Page link: https://vpn.net/<br/>
+:link: Design taken as reference for this project: https://vpn.net/<br/>
 
-:link: Link to the project:  https://chrismetalx.github.io/Hamachi-clone/<br/>
+:link: Live Demo:  https://chrismetalx.github.io/Hamachi-clone/<br/>
 ***
 **This project was carried out for learning purposes.**
